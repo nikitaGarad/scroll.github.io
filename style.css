@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a{
+    width: 45%;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.b{
+ width: 45%;
+    height: 200px; 
+   
+    border-radius: 50px 0px 0px 40px;
+    float: left;
+}
+.c{
+ width: 50%;
+    height: 200px; 
+    color: blue;
+   
+    overflow-y: scroll;
+    overflow-x: hidden;
+    float: left;
+}
